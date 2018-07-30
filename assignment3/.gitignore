@@ -1,0 +1,8 @@
+*.swp
+*.pyc
+.env/*
+.idea
+.ipynb_checkpoints
+
+# gitignore the built release.
+assignment3/*
